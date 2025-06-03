@@ -15,6 +15,9 @@
 .small{
      font-size: x-small;
 }
+.justify{
+     text-align: justify;
+}
 .marginTop{
      margin-top: 5px;
 }
